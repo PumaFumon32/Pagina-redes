@@ -1,4 +1,4 @@
-/* Estilos generales */
+
 body {
     background-image: url('imagenes/fondo.jpg');
     background-size: cover;
@@ -7,30 +7,30 @@ body {
     background-attachment: fixed;
     font-family: Arial, sans-serif;
     color: white;
-    text-align: center; /* Centramos todo el texto dentro del body */
+    text-align: center; 
 }
 
-/* Estilo para el título */
+
 h1 {
-    font-size: 3em; /* Tamaño más grande para el título */
+    font-size: 3em; 
     margin-bottom: 20px;
 }
 
-/* Estilo para los enlaces */
+
 a {
-    display: block; /* Hace que los enlaces se comporten como bloques para que ocupen toda la línea */
-    font-size: 1.5em; /* Aumentamos el tamaño de los enlaces */
-    margin: 10px 0; /* Margen entre los enlaces */
-    color: white; /* Color del texto de los enlaces */
-    text-decoration: none; /* Quita el subrayado */
+    display: block; 
+    font-size: 1.5em; 
+    margin: 10px 0; 
+    color: white; 
+    text-decoration: none; 
 }
 
-/* Efecto hover para los enlaces */
+
 a:hover {
-    color: lightgray; /* Cambia el color cuando el usuario pasa el ratón por encima */
+    color: lightgray; 
 }
 
-/* Estilo para el índice */
+
 h3 {
-    font-size: 2em; /* Aumentamos el tamaño del texto en el índice */
+    font-size: 2em; 
 }
