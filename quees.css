@@ -7,9 +7,9 @@ body {
     font-family: Arial, sans-serif;
     color: white;
     text-align: center;
-    margin: 100px center; 
+    margin: 100px; 
 }
-h1,{
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center; 
 }

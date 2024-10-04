@@ -6,4 +6,5 @@ background-image: url('imagenes/fondo.jpg');
     background-attachment: fixed; 
     font-family: Arial, sans-serif;
     color: white; 
+    margin: 100px;
 }
