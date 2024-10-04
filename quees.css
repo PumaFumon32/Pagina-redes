@@ -6,7 +6,8 @@ body {
     background-attachment: fixed;
     font-family: Arial, sans-serif;
     color: white;
-    text-align: center; 
+    text-align: center;
+    margin: 100px center; 
 }
 h1,{
     font-family: Georgia, 'Times New Roman', Times, serif;
