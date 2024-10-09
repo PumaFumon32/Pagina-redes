@@ -1,0 +1,39 @@
+
+body {
+    background-image: url('imagenes/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center; 
+}
+
+
+h1 {
+    font-size: 3em; 
+    margin-bottom: 20px;
+}
+
+
+a {
+    display: block; 
+    font-size: 1.5em; 
+    margin: 10px 0; 
+    color: white; 
+    text-decoration: none; 
+}
+
+
+a:hover {
+    color: lightgray; 
+}
+
+
+h3 {
+    font-size: 2em; 
+}
+.titulo {
+    margin-bottom: 500px;
+}
